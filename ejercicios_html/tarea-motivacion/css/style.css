@@ -1,0 +1,61 @@
+body {
+	margin: auto;
+	width: 1024px;
+	color: purple;
+    background-color: #ecf0f1;
+    font-size: 18px;
+}
+
+h1 {
+	color:#000;
+	text-align: center;
+}
+
+h2 {
+	color: #000;
+}
+
+p {
+	text-align: justify;
+}
+
+.pImpares {
+	padding: 0 10px;
+}
+
+.pImpares a:hover {
+	color: #4B054A;
+}
+
+head #tituloPrincipal {
+	font-size: 25px;
+	text-align: center;
+}
+
+.parrafoMedio {
+	background: #90A4AE;
+	padding: 0 10px;
+}
+
+nav {
+  background: #2c3e50;
+  padding: 10px;
+  width: 97%;
+}
+
+img.centrarImagen {
+    display:block;
+    margin: 0 auto;
+}
+
+.enlaces {
+  font-size: 20px;
+  margin: 75px;
+  color: #f1c40f;
+  text-decoration: none;
+}
+
+.linkTeorias {
+	font-size: 18px;
+}
+
