@@ -1,9 +1,8 @@
 body {
-	margin: auto;
-	width: 1024px;
-	color: purple;
-    background-color: #ecf0f1;
-    font-size: 18px;
+	-webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-family: Georgia,sans-serif;
+    color: #414042;
 }
 
 h1 {
